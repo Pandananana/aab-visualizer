@@ -1,0 +1,458 @@
+{
+ "1": {
+  "title": "Afdeling 1 - Nyelandsvej",
+  "addr": "Nyelandsvej 57, st. th | 2000 Frederiksberg"
+ },
+ "2": {
+  "title": "Afdeling 2 - Havneholmen",
+  "addr": "Havneholmen 21 | 1561 København V"
+ },
+ "3": {
+  "title": "Afdeling 3 - Halsskovgade",
+  "addr": "Halsskovgade 7, st.th, | 2100 København Ø"
+ },
+ "4": {
+  "title": "Afdeling 4 - Rughavevej",
+  "addr": "Rughavevej 9, st. | 2500 Valby"
+ },
+ "5": {
+  "title": "Afdeling 5 - Nyelandsvej",
+  "addr": "Nyelandsvej 63, 5. tv. | 2000 Frederiksberg"
+ },
+ "6": {
+  "title": "Afdeling 6 - Tycho Brahes Allé",
+  "addr": "Tycho Brahes Allé 34, st. tv | 2300 København S"
+ },
+ "7": {
+  "title": "Afdeling 7 - Svinget",
+  "addr": "Svinget 17, porten | 2300 København S"
+ },
+ "8": {
+  "title": "Afdeling 8 - Musvågevej",
+  "addr": "Musvågevej 18, st. th | 2400 København NV"
+ },
+ "9": {
+  "title": "Afdeling 9 - Ejderstedgade",
+  "addr": "Ejderstedgade 18 | 1750 København V"
+ },
+ "10": {
+  "title": "Afdeling 10 - Rolfsvej",
+  "addr": "Rolfsvej 35, kld. | 2000 Frederiksberg"
+ },
+ "11": {
+  "title": "Afdeling 11 - Peter Bangsvej",
+  "addr": "Peter Bangsvej 58, st. th. | 2000 Frederiksberg"
+ },
+ "12": {
+  "title": "Afdeling 12 - Lindehøjen",
+  "addr": "Lindehøjen 7, st. tv. | 2720 Vanløse"
+ },
+ "13": {
+  "title": "Afdeling 13 - Bramslykkevej",
+  "addr": "Bramslykkevej 9, st. | 2500 Valby"
+ },
+ "14": {
+  "title": "Afdeling 14 - Edv. Griegsgade",
+  "addr": "Edv. Griegsgade 2 A | 2100 København Ø"
+ },
+ "15": {
+  "title": "Afdeling 15 - Lybækgade",
+  "addr": "Lybækgade 29, st. th. | 2300 København S"
+ },
+ "16": {
+  "title": "Afdeling 16 - Frederikssundsvej",
+  "addr": "Frederikssundsvej 128 I, st. th. | 2700 Brønshøj"
+ },
+ "17": {
+  "title": "Afdeling 17 - Kirkegårdsvej",
+  "addr": "Kirkegårdsvej 46, st. | 2300 København S"
+ },
+ "18": {
+  "title": "Afdeling 18 - Reersøgade",
+  "addr": "Reersøgade 13, st. tv | 2100 København Ø"
+ },
+ "19": {
+  "title": "Afdeling 19 - Limgården",
+  "addr": "Limgården 2, st.th | 2300 København S"
+ },
+ "20": {
+  "title": "Afdeling 20 - Tjørnevangen",
+  "addr": "Tjørnevangen 16. | 2700 Brønshøj"
+ },
+ "21": {
+  "title": "Afdeling 21 - Østerbrogade",
+  "addr": "Østerbrogade 119, kælderen | 2100 København Ø"
+ },
+ "22": {
+  "title": "Afdeling 22 - Julius Blomsgade",
+  "addr": "Julius Blomsgade 28, st. tv. | 2200 København N"
+ },
+ "23": {
+  "title": "Afdeling 23 - Hjortøgade",
+  "addr": "Hjortøgade 10 | 2100 København Ø"
+ },
+ "25": {
+  "title": "Afdeling 25 - Genforeningspladsen",
+  "addr": "Genforeningspladsen 49-51 | 2400 København NV"
+ },
+ "26": {
+  "title": "Afdeling 26 - Frederiksvej",
+  "addr": "Frederiksvej 52-62 | 2000 Frederiksberg"
+ },
+ "27": {
+  "title": "Afdeling 27 - Frederikssundsvej",
+  "addr": "Frederikssundsvej 118B, st. th | 2700 Brønshøj"
+ },
+ "28": {
+  "title": "Afdeling 28 - Frederikssundsvej",
+  "addr": "Frederikssundsvej 116 C | 2700 Brønshøj"
+ },
+ "31": {
+  "title": "Afdeling 31 - Ryesgade",
+  "addr": "Ryesgade 95 i porten | 2100 København Ø"
+ },
+ "32": {
+  "title": "Afdeling 32 - Strødamvej",
+  "addr": "Strødamvej 2 | 2100 København Ø"
+ },
+ "33": {
+  "title": "Afdeling 33 - Frederiksborgvej",
+  "addr": "Frederiksborgvej 94 | 2400 København NV"
+ },
+ "34": {
+  "title": "Afdeling 34 - Emdrup Banke",
+  "addr": "Emdrup Banke 2 A | 2100 København Ø"
+ },
+ "35": {
+  "title": "Afdeling 35 - Enghavevej",
+  "addr": "Enghavevej 108, st. th | 2450 København SV"
+ },
+ "36": {
+  "title": "Afdeling 36 - Emdrup Huse",
+  "addr": "Emdrup Huse 19, kld. | 2100 København Ø"
+ },
+ "37": {
+  "title": "Afdeling 37 - Keldsøvej",
+  "addr": "Keldsøvej 23 | 2100 København Ø"
+ },
+ "38": {
+  "title": "Afdeling 38 - Kobbelvænget",
+  "addr": "Kobbelvænget 63, kld. | 2700 Brønshøj"
+ },
+ "39": {
+  "title": "Afdeling 39 - Bjælkevangen",
+  "addr": "Bjælkevangen 71 | 2800 Kgs. Lyngby"
+ },
+ "40": {
+  "title": "Afdeling 40 - Frederikssundsvej",
+  "addr": "Frederikssundsvej 121E | 2700 Brønshøj"
+ },
+ "41": {
+  "title": "Afdeling 41 - Ragnhildgade",
+  "addr": "Ragnhildgade 66, st. | 2100 København Ø"
+ },
+ "42": {
+  "title": "Afdeling 42 - Lilletoften",
+  "addr": "Lilletoften 28 A | 2740 Skovlunde"
+ },
+ "43": {
+  "title": "Afdeling 43 - Ulkær",
+  "addr": "Ulkær 22, st. tv. | 2610 Rødovre"
+ },
+ "45": {
+  "title": "Afdeling 45 - Lilletoften",
+  "addr": "Lilletoften 72 A | 2740 Skovlunde"
+ },
+ "46": {
+  "title": "Afdeling 46 - Baltorpvej",
+  "addr": "Baltorpvej 54a | 2750 Ballerup"
+ },
+ "47": {
+  "title": "Afdeling 47 - Lundebjerggårdsvej",
+  "addr": "Lundebjerggårdsvej 206 | 2740 Skovlunde"
+ },
+ "48": {
+  "title": "Afdeling 48 - Skansebjerg",
+  "addr": "Skansebjerg 8, kld. | 2700 Brønshøj"
+ },
+ "49": {
+  "title": "Afdeling 49 - Stærevej",
+  "addr": "Stærevej 38 | 2400 København NV"
+ },
+ "50": {
+  "title": "Afdeling 50 - Sjælør Boulevard",
+  "addr": "Sjælør Boulevard 111 | 2500 Valby"
+ },
+ "51": {
+  "title": "Afdeling 51 - Pælestykkerne",
+  "addr": "Pælestykkerne 13, kld. | 2630 Taastrup"
+ },
+ "52": {
+  "title": "Afdeling 52 - Høje Gladsaxe",
+  "addr": "Høje Gladsaxe 19, st. mf. | 2860 Søborg"
+ },
+ "53": {
+  "title": "Afdeling 53 - Brøndby Nord Vej",
+  "addr": "Brøndby Nord Vej 249 | 2605 Brøndby"
+ },
+ "54": {
+  "title": "Afdeling 54 - Hedeparken",
+  "addr": "Hedeparken 173 A | 2750 Ballerup"
+ },
+ "55": {
+  "title": "Afdeling 55 - Strandgården",
+  "addr": "Strandgården 19A | 2635 Ishøj"
+ },
+ "56": {
+  "title": "Afdeling 56 - Lindevej",
+  "addr": "Lindevej 6 | 3200 Helsinge"
+ },
+ "57": {
+  "title": "Afdeling 57 - Toftevangen",
+  "addr": "Toftevangen 141 | 3200 Helsinge"
+ },
+ "58": {
+  "title": "Afdeling 58 - Tagensvej",
+  "addr": "Tagensvej 115 - i midten af gården | 2200 København N"
+ },
+ "59": {
+  "title": "Afdeling 59 - Lyneborggade",
+  "addr": "Lyneborggade 16, kld. | 2300 København S"
+ },
+ "60": {
+  "title": "Afdeling 60 - Sdr. Boulevard",
+  "addr": "Sdr. Boulevard 50, st. | 1720 København V"
+ },
+ "61": {
+  "title": "Afdeling 61 - Dybbølsgade",
+  "addr": "Dybbølsgade 48 | 1662 København V"
+ },
+ "62": {
+  "title": "Afdeling 62 - Tovværkgade",
+  "addr": "Tovværkgade 5 B | 2300 København S"
+ },
+ "63": {
+  "title": "Afdeling 63 - Hvidovre Alle",
+  "addr": "Hvidovre Alle 51 | 2650 Hvidovre"
+ },
+ "64": {
+  "title": "Afdeling 64 - Ryesgade",
+  "addr": "Ryesgade 127 | 2100 København Ø"
+ },
+ "65": {
+  "title": "Afdeling 65 - Havneholmen",
+  "addr": "Havneholmen 21 | 1561 København V"
+ },
+ "66": {
+  "title": "Afdeling 66 - Sverrigsgade",
+  "addr": "Sverrigsgade 3A, st. | 2300 København S"
+ },
+ "67": {
+  "title": "Afdeling 67 - Toftebakkevej",
+  "addr": "Toftebakkevej 13A, kld. | 2500 Valby"
+ },
+ "68": {
+  "title": "Afdeling 68 - Burmeistergade",
+  "addr": "Burmeistergade 24, st. th | 1429 København K"
+ },
+ "69": {
+  "title": "Afdeling 69 - Løgstørgade",
+  "addr": "Løgstørgade 12 | 2100 København Ø"
+ },
+ "70": {
+  "title": "Afdeling 70 - Sjælør Boulevard",
+  "addr": "Sjælør Boulevard 179, st. tv. | 2500 Valby"
+ },
+ "71": {
+  "title": "Afdeling 71 - Svenskehuset, Efterslægtsvej",
+  "addr": "Svenskehuset, Efterslægtsvej 26 | 2400 København NV"
+ },
+ "72": {
+  "title": "Afdeling 72 - Frederiksborgvej",
+  "addr": "Frederiksborgvej 191 A, Kld. | 2400 København NV"
+ },
+ "73": {
+  "title": "Afdeling 73 - Røsågade",
+  "addr": "Røsågade 9, kld. | 2300 København S"
+ },
+ "74": {
+  "title": "Afdeling 74 - Flensborggade",
+  "addr": "Flensborggade 53,1 | 1669 København V"
+ },
+ "75": {
+  "title": "Afdeling 75 - Havneholmen",
+  "addr": "Havneholmen 21 | 1561 København V"
+ },
+ "76": {
+  "title": "Afdeling 76 - Havneholmen",
+  "addr": "Havneholmen 21 | 1561 København V"
+ },
+ "77": {
+  "title": "Afdeling 77 - Cypernsvej",
+  "addr": "Cypernsvej 4, kld. | 2300 København S"
+ },
+ "78": {
+  "title": "Afdeling 78 - Utterslevgård",
+  "addr": "Utterslevgård 20, Kælderen | 2400 København NV"
+ },
+ "79": {
+  "title": "Afdeling 79 - Sophiehaven",
+  "addr": "Sophiehaven 51 | 3400 Hillerød"
+ },
+ "80": {
+  "title": "Afdeling 80 - Storegårdsvej",
+  "addr": "Storegårdsvej 32 | 2700 Brønshøj"
+ },
+ "81": {
+  "title": "Afdeling 81 - Nøddebogade",
+  "addr": "Nøddebogade 2, st. | 2200 København N"
+ },
+ "82": {
+  "title": "Afdeling 82 - Løvstræde",
+  "addr": "Løvstræde 14 | 1152 København K"
+ },
+ "83": {
+  "title": "Afdeling 83 - Flensborggade",
+  "addr": "Flensborggade 36-38 | 1669 København V"
+ },
+ "84": {
+  "title": "Afdeling 84 - Burmeistergade",
+  "addr": "Burmeistergade 24, st. th. | 1429 København K"
+ },
+ "85": {
+  "title": "Afdeling 85 - Godsbanegade",
+  "addr": "Godsbanegade 22, kld. | 1722 København V"
+ },
+ "86": {
+  "title": "Afdeling 86 - Peblinge Dosseringen",
+  "addr": "Peblinge Dosseringen 16 | 2200 København N"
+ },
+ "87": {
+  "title": "Afdeling 87 - Kaj Munks Vej",
+  "addr": "Kaj Munks Vej 14, kld. | 2300 København S"
+ },
+ "88": {
+  "title": "Afdeling 88 - Fuglsangpark",
+  "addr": "Fuglsangpark 122 | 3520 Farum"
+ },
+ "89": {
+  "title": "Afdeling 89 - Roskildevej",
+  "addr": "Roskildevej 56A, kælderen | 2000 Frederiksberg"
+ },
+ "90": {
+  "title": "Afdeling 90 - Havneholmen",
+  "addr": "Havneholmen 21 | 1561 København V"
+ },
+ "92": {
+  "title": "Afdeling 92 - Edvard Thomsens Vej",
+  "addr": "Edvard Thomsens Vej 9A, st. | 2300 København S"
+ },
+ "93": {
+  "title": "Afdeling 93 - Skovgårdsvej",
+  "addr": "Skovgårdsvej 38 | 3200 Helsinge"
+ },
+ "94": {
+  "title": "Afdeling 94 - Skovgårdsvej",
+  "addr": "Skovgårdsvej 36 | 3200 Helsinge"
+ },
+ "95": {
+  "title": "Afdeling 95 - Byvej",
+  "addr": "Byvej 201 | 2650 Hvidovre"
+ },
+ "96": {
+  "title": "Afdeling 96 - Baltorpvej",
+  "addr": "Baltorpvej 7, st. tv | 2750 Ballerup"
+ },
+ "97": {
+  "title": "Afdeling 97 - Armévænget",
+  "addr": "Armévænget 1 | 3520 Farum"
+ },
+ "98": {
+  "title": "Afdeling 98 - Carl Jakobsens Vej",
+  "addr": "Carl Jakobsens Vej 8 | 2500 Valby"
+ },
+ "99": {
+  "title": "Afdeling 99 - Carl Jacobsensvej",
+  "addr": "Carl Jacobsensvej 8 | 2500 Valby"
+ },
+ "100": {
+  "title": "Afdeling 100 - Richard Mortensens Vej",
+  "addr": "Richard Mortensens Vej 90, st. th. | 2300 København S"
+ },
+ "101": {
+  "title": "Afdeling 101 - Kornvænget",
+  "addr": "Kornvænget 78 A | 2750 Ballerup"
+ },
+ "102": {
+  "title": "Afdeling 102 - Lundebjerggårdsvej",
+  "addr": "Lundebjerggårdsvej 210, kld. | 2740 Skovlunde"
+ },
+ "103": {
+  "title": "Afdeling 103 - Vognmandsmarken",
+  "addr": "Vognmandsmarken 43 | 2100 København Ø"
+ },
+ "104": {
+  "title": "Afdeling 104 - ANONYM",
+  "addr": "ANONYM | 1000 København K"
+ },
+ "105": {
+  "title": "Afdeling 105 - Bellidavej",
+  "addr": "Bellidavej 5 st. | 2500 Valby"
+ },
+ "106": {
+  "title": "Afdeling 106 - Blokhaven",
+  "addr": "Blokhaven 7, 1. tv. | 2740 Skovlunde"
+ },
+ "107": {
+  "title": "Afdeling 107 - Lundebjerggårdsvej",
+  "addr": "Lundebjerggårdsvej 14, gavlen | 2740 Skovlunde"
+ },
+ "108": {
+  "title": "Afdeling 108 - Baltorpvej",
+  "addr": "Baltorpvej 7, st. tv. | 2750 Ballerup"
+ },
+ "109": {
+  "title": "Afdeling 109 - Vesterfælledvej",
+  "addr": "Vesterfælledvej 92-94 | 1799 København V"
+ },
+ "110": {
+  "title": "Afdeling 110 - Jorisvej",
+  "addr": "Jorisvej 9 | 2300 København S"
+ },
+ "111": {
+  "title": "Afdeling 111 - Gyldenrisvej",
+  "addr": "Gyldenrisvej 7 | 2300 København S"
+ },
+ "112": {
+  "title": "Afdeling 112 - Bredagervej",
+  "addr": "Bredagervej 29, kld. | 2770 Kastrup"
+ },
+ "113": {
+  "title": "Afdeling 113 - Tårnby Torv",
+  "addr": "Tårnby Torv 2, kld. | 2770 Kastrup"
+ },
+ "114": {
+  "title": "Afdeling 114 - Følfodvej",
+  "addr": "Følfodvej | 2300 København S"
+ },
+ "115": {
+  "title": "Afdeling 115 - Kaj Munks Vej",
+  "addr": "Kaj Munks Vej 8 | 2300 København S"
+ },
+ "117": {
+  "title": "Afdeling 117 - Else Alfelts Vej",
+  "addr": "Else Alfelts Vej 49 | 2300 København S"
+ },
+ "118": {
+  "title": "Afdeling 118 - Falkoner Alle",
+  "addr": "Falkoner Alle 128 | 2000 Frederiksberg"
+ },
+ "119": {
+  "title": "Afdeling 119 - Sydhavnsgade",
+  "addr": "Sydhavnsgade | 2450 København SV"
+ },
+ "121": {
+  "title": "Afdeling 121 - Spøttrupvej",
+  "addr": "Spøttrupvej 18, kld | 2720 Vanløse"
+ }
+}

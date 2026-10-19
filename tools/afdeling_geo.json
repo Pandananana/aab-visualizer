@@ -1,0 +1,1132 @@
+{
+ "1": {
+  "lat": 55.68395997,
+  "lon": 12.52559813,
+  "geo_label": "Nyelandsvej 57, 2000 Frederiksberg",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Nyelandsvej 57, st. th, 2000 Frederiksberg",
+  "street_label": "Nyelandsvej, Frederiksberg Kommune"
+ },
+ "2": {
+  "lat": 55.66481169,
+  "lon": 12.54446609,
+  "geo_label": "Bustrupgade, København Kommune",
+  "geo_source": "vejmidte",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": null,
+  "street_label": "Bustrupgade, København Kommune"
+ },
+ "3": {
+  "lat": 55.70782378,
+  "lon": 12.58131253,
+  "geo_label": "Halsskovgade 7, 2100 København Ø",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Halsskovgade 7, st.th,, 2100 København Ø",
+  "street_label": "Vordingborggade, København Kommune"
+ },
+ "4": {
+  "lat": 55.6648719,
+  "lon": 12.51449681,
+  "geo_label": "Rughavevej 9, 2500 Valby",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Rughavevej 9, st., 2500 Valby",
+  "street_label": "Mellemtoftevej, København Kommune"
+ },
+ "5": {
+  "lat": 55.68409859,
+  "lon": 12.5249331,
+  "geo_label": "Nyelandsvej 63, 2000 Frederiksberg",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Nyelandsvej 63, 5. tv., 2000 Frederiksberg",
+  "street_label": "Nyelandsvej, Frederiksberg Kommune"
+ },
+ "6": {
+  "lat": 55.65574611,
+  "lon": 12.61387834,
+  "geo_label": "Tycho Brahes Allé 34, 2300 København S",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Tycho Brahes Allé 34, st. tv, 2300 København S",
+  "street_label": "Tycho Brahes Allé, København Kommune"
+ },
+ "7": {
+  "lat": 55.66446329,
+  "lon": 12.5954251,
+  "geo_label": "Svinget 17, 2300 København S",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Svinget 17, porten, 2300 København S",
+  "street_label": "Svinget, København Kommune"
+ },
+ "8": {
+  "lat": 55.7021942,
+  "lon": 12.52915729,
+  "geo_label": "Musvågevej 18, 2400 København NV",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Musvågevej 18, st. th, 2400 København NV",
+  "street_label": "Musvågevej, København Kommune"
+ },
+ "9": {
+  "lat": 55.66881683,
+  "lon": 12.53980296,
+  "geo_label": "Vesterfælledvej 18, 1750 København V",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Ejderstedgade 18, 1750 København V",
+  "street_label": "Vesterfælledvej, København Kommune"
+ },
+ "10": {
+  "lat": 55.68389669,
+  "lon": 12.53194361,
+  "geo_label": "Rolfsvej 35, 2000 Frederiksberg",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Rolfsvej 35, kld., 2000 Frederiksberg",
+  "street_label": "Yrsavej, Frederiksberg Kommune"
+ },
+ "11": {
+  "lat": 55.67897218,
+  "lon": 12.50963589,
+  "geo_label": "Peter Bangs Vej 58, 2000 Frederiksberg",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Peter Bangsvej 58, st. th., 2000 Frederiksberg",
+  "street_label": null
+ },
+ "12": {
+  "lat": 55.68628708,
+  "lon": 12.49173818,
+  "geo_label": "Lindehøjen 7, 2720 Vanløse",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Lindehøjen 7, st. tv., 2720 Vanløse",
+  "street_label": "Jernbane Allé, København Kommune"
+ },
+ "13": {
+  "lat": 55.67172218,
+  "lon": 12.49085132,
+  "geo_label": "Bramslykkevej 9, 2500 Valby",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": "Afdelingens vej (Vigerslevvej) ligger 1.9 km herfra – markøren viser kontoret",
+  "office_addr": "Bramslykkevej 9, st., 2500 Valby",
+  "street_label": "Vigerslevvej, København Kommune"
+ },
+ "14": {
+  "lat": 55.71603946,
+  "lon": 12.5753451,
+  "geo_label": "Edvard Griegs Gade 2, 2100 København Ø",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Edv. Griegsgade 2 A, 2100 København Ø",
+  "street_label": "Edvard Griegs Gade, København Kommune"
+ },
+ "15": {
+  "lat": 55.66342615,
+  "lon": 12.61020356,
+  "geo_label": "Lybækgade 29, 2300 København S",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Lybækgade 29, st. th., 2300 København S",
+  "street_label": "Lybækgade, København Kommune"
+ },
+ "16": {
+  "lat": 55.7055099,
+  "lon": 12.50811915,
+  "geo_label": "Frederikssundsvej 127, 2700 Brønshøj",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Frederikssundsvej 128 I, st. th., 2700 Brønshøj",
+  "street_label": "Ellevangen, København Kommune"
+ },
+ "17": {
+  "lat": 55.65551271,
+  "lon": 12.61303838,
+  "geo_label": "Kirkegårdsvej 46, 2300 København S",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Kirkegårdsvej 46, st., 2300 København S",
+  "street_label": "Højdevej, København Kommune"
+ },
+ "18": {
+  "lat": 55.71024964,
+  "lon": 12.57523168,
+  "geo_label": "Reersøgade 13, 2100 København Ø",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Reersøgade 13, st. tv, 2100 København Ø",
+  "street_label": "Reersøgade, København Kommune"
+ },
+ "19": {
+  "lat": 55.66580079,
+  "lon": 12.5996672,
+  "geo_label": "Limgården 2, 2300 København S",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Limgården 2, st.th, 2300 København S",
+  "street_label": "Amagerbrogade, København Kommune"
+ },
+ "20": {
+  "lat": 55.70692706,
+  "lon": 12.50619089,
+  "geo_label": "Tjørnevangen 16, 2700 Brønshøj",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Tjørnevangen 16., 2700 Brønshøj",
+  "street_label": null
+ },
+ "21": {
+  "lat": 55.7118157,
+  "lon": 12.57725952,
+  "geo_label": "Østerbrogade 119, 2100 København Ø",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Østerbrogade 119, kælderen, 2100 København Ø",
+  "street_label": "Christiansmindevej, København Kommune"
+ },
+ "22": {
+  "lat": 55.69508347,
+  "lon": 12.54433758,
+  "geo_label": "Julius Bloms Gade 28, 2200 København N",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Julius Blomsgade 28, st. tv., 2200 København N",
+  "street_label": "Julius Bloms Gade, København Kommune"
+ },
+ "23": {
+  "lat": 55.71074526,
+  "lon": 12.57501278,
+  "geo_label": "Hjortøgade 10, 2100 København Ø",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Hjortøgade 10, 2100 København Ø",
+  "street_label": "Østerbrogade, København Kommune"
+ },
+ "25": {
+  "lat": 55.69917713,
+  "lon": 12.51741332,
+  "geo_label": "Genforeningspladsen 49, 2400 København NV",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Genforeningspladsen 49-51, 2400 København NV",
+  "street_label": "Borups Allé, København Kommune"
+ },
+ "26": {
+  "lat": 55.6750854,
+  "lon": 12.51884707,
+  "geo_label": "Frederiksvej 3, 2000 Frederiksberg",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Frederiksvej 52-62, 2000 Frederiksberg",
+  "street_label": "Frederiksvej, Frederiksberg Kommune"
+ },
+ "27": {
+  "lat": 55.70626427,
+  "lon": 12.5115545,
+  "geo_label": "Frederikssundsvej 118B, 2700 Brønshøj",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Frederikssundsvej 118B, st. th, 2700 Brønshøj",
+  "street_label": "Frederikssundsvej, København Kommune"
+ },
+ "28": {
+  "lat": 55.70642004,
+  "lon": 12.51251121,
+  "geo_label": "Frederikssundsvej 116C, 2700 Brønshøj",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Frederikssundsvej 116 C, 2700 Brønshøj",
+  "street_label": "Frederikssundsvej, København Kommune"
+ },
+ "31": {
+  "lat": 55.69651326,
+  "lon": 12.57360611,
+  "geo_label": "Ryesgade 95, 2100 København Ø",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Ryesgade 95 i porten, 2100 København Ø",
+  "street_label": "Blegdamsvej, København Kommune"
+ },
+ "32": {
+  "lat": 55.7184709,
+  "lon": 12.55590693,
+  "geo_label": "Strødamvej 2, 2100 København Ø",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Strødamvej 2, 2100 København Ø",
+  "street_label": "Emdrup Vænge, København Kommune"
+ },
+ "33": {
+  "lat": 55.71035193,
+  "lon": 12.53232354,
+  "geo_label": "Frederiksborgvej 94, 2400 København NV",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Frederiksborgvej 94, 2400 København NV",
+  "street_label": "Tuborgvej, København Kommune"
+ },
+ "34": {
+  "lat": 55.71993261,
+  "lon": 12.54805489,
+  "geo_label": "Emdrup Banke 2A, 2100 København Ø",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Emdrup Banke 2 A, 2100 København Ø",
+  "street_label": "Emdrup Banke, København Kommune"
+ },
+ "35": {
+  "lat": 55.65924276,
+  "lon": 12.53933551,
+  "geo_label": "Enghavevej 108, 2450 København SV",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Enghavevej 108, st. th, 2450 København SV",
+  "street_label": "Enghavevej, København Kommune"
+ },
+ "36": {
+  "lat": 55.72006906,
+  "lon": 12.54451007,
+  "geo_label": "Emdrup Huse 19, 2100 København Ø",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Emdrup Huse 19, kld., 2100 København Ø",
+  "street_label": "Emdrup Huse, København Kommune"
+ },
+ "37": {
+  "lat": 55.71653387,
+  "lon": 12.5490177,
+  "geo_label": "Keldsøvej 23, 2100 København Ø",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Keldsøvej 23, 2100 København Ø",
+  "street_label": "Lersø Parkallé, København Kommune"
+ },
+ "38": {
+  "lat": 55.71499866,
+  "lon": 12.4839014,
+  "geo_label": "Kobbelvænget 63, 2700 Brønshøj",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Kobbelvænget 63, kld., 2700 Brønshøj",
+  "street_label": "Kobbelvænget, København Kommune"
+ },
+ "39": {
+  "lat": 55.79317531,
+  "lon": 12.5360441,
+  "geo_label": "Bjælkevangen 71, 2800 Kongens Lyngby",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Bjælkevangen 71, 2800 Kgs. Lyngby",
+  "street_label": "Bjælkevangen, Lyngby-Taarbæk Kommune"
+ },
+ "40": {
+  "lat": 55.70592742,
+  "lon": 12.51225597,
+  "geo_label": "Frederikssundsvej 121E, 2700 Brønshøj",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Frederikssundsvej 121E, 2700 Brønshøj",
+  "street_label": null
+ },
+ "41": {
+  "lat": 55.70928165,
+  "lon": 12.55377554,
+  "geo_label": "Ragnhildgade 66, 2100 København Ø",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Ragnhildgade 66, st., 2100 København Ø",
+  "street_label": "Ragnhildgade, København Kommune"
+ },
+ "42": {
+  "lat": 55.72200771,
+  "lon": 12.39608151,
+  "geo_label": "Lilletoften 28A, 2740 Skovlunde",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Lilletoften 28 A, 2740 Skovlunde",
+  "street_label": "Lilletoften, Ballerup Kommune"
+ },
+ "43": {
+  "lat": 55.66651023,
+  "lon": 12.44922127,
+  "geo_label": "Ulkær 22, 2610 Rødovre",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Ulkær 22, st. tv., 2610 Rødovre",
+  "street_label": "Ruskær, Rødovre Kommune"
+ },
+ "45": {
+  "lat": 55.72263406,
+  "lon": 12.39071869,
+  "geo_label": "Lilletoften 72A, 2740 Skovlunde",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Lilletoften 72 A, 2740 Skovlunde",
+  "street_label": "Lilletoften, Ballerup Kommune"
+ },
+ "46": {
+  "lat": 55.72724931,
+  "lon": 12.35261991,
+  "geo_label": "Baltorpvej 51A, 2750 Ballerup",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Baltorpvej 54a, 2750 Ballerup",
+  "street_label": "Baltorpvej, Ballerup Kommune"
+ },
+ "47": {
+  "lat": 55.7215984,
+  "lon": 12.40881573,
+  "geo_label": "Lundebjerggårdsvej 206, 2740 Skovlunde",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Lundebjerggårdsvej 206, 2740 Skovlunde",
+  "street_label": "Lundebjerggårdsvej, Ballerup Kommune"
+ },
+ "48": {
+  "lat": 55.70496797,
+  "lon": 12.50884556,
+  "geo_label": "Skansebjerg 8, 2700 Brønshøj",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Skansebjerg 8, kld., 2700 Brønshøj",
+  "street_label": "Skansebjerg, København Kommune"
+ },
+ "49": {
+  "lat": 55.70354722,
+  "lon": 12.52161882,
+  "geo_label": "Stærevej 38, 2400 København NV",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Stærevej 38, 2400 København NV",
+  "street_label": "Stærevej, København Kommune"
+ },
+ "50": {
+  "lat": 55.65477276,
+  "lon": 12.52479225,
+  "geo_label": "Sjælør Boulevard 111, 2500 Valby",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Sjælør Boulevard 111, 2500 Valby",
+  "street_label": "Sjælør Boulevard, København Kommune"
+ },
+ "51": {
+  "lat": 55.64581468,
+  "lon": 12.29475211,
+  "geo_label": "Pælestykkerne 13, 2630 Taastrup",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Pælestykkerne 13, kld., 2630 Taastrup",
+  "street_label": "Pælestykkerne, Høje-Taastrup Kommune"
+ },
+ "52": {
+  "lat": 55.73040566,
+  "lon": 12.49326318,
+  "geo_label": "Høje Gladsaxe 19, 2860 Søborg",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Høje Gladsaxe 19, st. mf., 2860 Søborg",
+  "street_label": "Høje Gladsaxe, Gladsaxe Kommune"
+ },
+ "53": {
+  "lat": 55.66752112,
+  "lon": 12.42820672,
+  "geo_label": "Brøndby Nord Vej 249, 2605 Brøndby",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Brøndby Nord Vej 249, 2605 Brøndby",
+  "street_label": null
+ },
+ "54": {
+  "lat": 55.71398523,
+  "lon": 12.35951434,
+  "geo_label": "Hedeparken 173A, 2750 Ballerup",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Hedeparken 173 A, 2750 Ballerup",
+  "street_label": "Hedeparken, Ballerup Kommune"
+ },
+ "55": {
+  "lat": 55.609851,
+  "lon": 12.348989,
+  "geo_label": "Strandgården 19A, 2635 Ishøj",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Strandgården 19A, 2635 Ishøj",
+  "street_label": "Strandgården, Ishøj Kommune"
+ },
+ "56": {
+  "lat": 56.02117074,
+  "lon": 12.19313588,
+  "geo_label": "Lindevej 6, 3200 Helsinge",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Lindevej 6, 3200 Helsinge",
+  "street_label": "Lindevej, Gribskov Kommune"
+ },
+ "57": {
+  "lat": 56.018931,
+  "lon": 12.18209,
+  "geo_label": "Toftevangen 141, 3200 Helsinge",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Toftevangen 141, 3200 Helsinge",
+  "street_label": "Toftevangen, Gribskov Kommune"
+ },
+ "58": {
+  "lat": 55.70389958,
+  "lon": 12.54519937,
+  "geo_label": "Tagensvej 115, 2200 København N",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Tagensvej 115 - i midten af gården, 2200 København N",
+  "street_label": "Tagensvej, København Kommune"
+ },
+ "59": {
+  "lat": 55.66450583,
+  "lon": 12.60980881,
+  "geo_label": "Lyneborggade 16, 2300 København S",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Lyneborggade 16, kld., 2300 København S",
+  "street_label": "Lyneborggade, København Kommune"
+ },
+ "60": {
+  "lat": 55.66791824,
+  "lon": 12.55485228,
+  "geo_label": "Sønder Boulevard 30, 1720 København V",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Sdr. Boulevard 50, st., 1720 København V",
+  "street_label": "Sønder Boulevard, København Kommune"
+ },
+ "61": {
+  "lat": 55.67014646,
+  "lon": 12.55106736,
+  "geo_label": "Saxogade 43, 1662 København V",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Dybbølsgade 48, 1662 København V",
+  "street_label": "Dybbølsgade, København Kommune"
+ },
+ "62": {
+  "lat": 55.6631,
+  "lon": 12.602816,
+  "geo_label": "Tovværkgade 5B, 2300 København S",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Tovværkgade 5 B, 2300 København S",
+  "street_label": "Tovværkgade, København Kommune"
+ },
+ "63": {
+  "lat": 55.65793585,
+  "lon": 12.47655611,
+  "geo_label": "Hvidovre Alle 51, 2650 Hvidovre",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Hvidovre Alle 51, 2650 Hvidovre",
+  "street_label": "Hvidovre Alle, Hvidovre Kommune"
+ },
+ "64": {
+  "lat": 55.698374,
+  "lon": 12.577674,
+  "geo_label": "Ryesgade 127, 2100 København Ø",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Ryesgade 127, 2100 København Ø",
+  "street_label": "Ryesgade, København Kommune"
+ },
+ "65": {
+  "lat": 55.66141111,
+  "lon": 12.62229626,
+  "geo_label": "Øresundsvej, København Kommune",
+  "geo_source": "vejmidte",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": null,
+  "street_label": "Øresundsvej, København Kommune"
+ },
+ "66": {
+  "lat": 55.66320053,
+  "lon": 12.60070481,
+  "geo_label": "Sverrigsgade 3A, 2300 København S",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Sverrigsgade 3A, st., 2300 København S",
+  "street_label": "Sverrigsgade, København Kommune"
+ },
+ "67": {
+  "lat": 55.66481862,
+  "lon": 12.51409386,
+  "geo_label": "Toftebakkevej 13A, 2500 Valby",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Toftebakkevej 13A, kld., 2500 Valby",
+  "street_label": "Toftebakkevej, København Kommune"
+ },
+ "68": {
+  "lat": 55.67564098,
+  "lon": 12.59897488,
+  "geo_label": "Burmeistersgade 24, 1429 København K",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Burmeistergade 24, st. th, 1429 København K",
+  "street_label": null
+ },
+ "69": {
+  "lat": 55.705582,
+  "lon": 12.581701,
+  "geo_label": "Løgstørgade 12, 2100 København Ø",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Løgstørgade 12, 2100 København Ø",
+  "street_label": "Løgstørgade, København Kommune"
+ },
+ "70": {
+  "lat": 55.660737,
+  "lon": 12.524619,
+  "geo_label": "Sjælør Boulevard 179, 2500 Valby",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Sjælør Boulevard 179, st. tv., 2500 Valby",
+  "street_label": "Sjælør Boulevard, København Kommune"
+ },
+ "71": {
+  "lat": 55.71039151,
+  "lon": 12.51409696,
+  "geo_label": "Efterslægtsvej 26, 2400 København NV",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Svenskehuset, Efterslægtsvej 26, 2400 København NV",
+  "street_label": "Utterslev Torv, København Kommune"
+ },
+ "72": {
+  "lat": 55.72400756,
+  "lon": 12.52843525,
+  "geo_label": "Frederiksborgvej 191A, 2400 København NV",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Frederiksborgvej 191 A, Kld., 2400 København NV",
+  "street_label": "Frederiksborgvej, København Kommune"
+ },
+ "73": {
+  "lat": 55.66188631,
+  "lon": 12.60169526,
+  "geo_label": "Røsågade 9, 2300 København S",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Røsågade 9, kld., 2300 København S",
+  "street_label": "Ølandsgade, København Kommune"
+ },
+ "74": {
+  "lat": 55.66576811,
+  "lon": 12.54788759,
+  "geo_label": "Flensborggade 53, 1669 København V",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Flensborggade 53,1, 1669 København V",
+  "street_label": "Flensborggade, København Kommune"
+ },
+ "75": {
+  "lat": 55.65417088,
+  "lon": 12.61076349,
+  "geo_label": "Amagerbrogade, København Kommune",
+  "geo_source": "vejmidte",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": null,
+  "street_label": "Amagerbrogade, København Kommune"
+ },
+ "76": {
+  "lat": 55.69055899,
+  "lon": 12.55878575,
+  "geo_label": "Egegade, København Kommune",
+  "geo_source": "vejmidte",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": null,
+  "street_label": "Egegade, København Kommune"
+ },
+ "77": {
+  "lat": 55.65174594,
+  "lon": 12.61698484,
+  "geo_label": "Cypernsvej 4, 2300 København S",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Cypernsvej 4, kld., 2300 København S",
+  "street_label": "Grækenlandsvej, København Kommune"
+ },
+ "78": {
+  "lat": 55.708115,
+  "lon": 12.516558,
+  "geo_label": "Utterslevgård 20, 2400 København NV",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Utterslevgård 20, Kælderen, 2400 København NV",
+  "street_label": "Utterslevgård, København Kommune"
+ },
+ "79": {
+  "lat": 55.949709,
+  "lon": 12.265812,
+  "geo_label": "Sophiehaven 51, 3400 Hillerød",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Sophiehaven 51, 3400 Hillerød",
+  "street_label": "Sophiehaven, Hillerød Kommune"
+ },
+ "80": {
+  "lat": 55.71183296,
+  "lon": 12.47708999,
+  "geo_label": "Storegårdsvej 32, 2700 Brønshøj",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Storegårdsvej 32, 2700 Brønshøj",
+  "street_label": "Storegårdsvej, København Kommune"
+ },
+ "81": {
+  "lat": 55.69639136,
+  "lon": 12.55822516,
+  "geo_label": "Nøddebogade 2, 2200 København N",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Nøddebogade 2, st., 2200 København N",
+  "street_label": "Nøddebogade, København Kommune"
+ },
+ "82": {
+  "lat": 55.68012588,
+  "lon": 12.57655241,
+  "geo_label": "Løvstræde 14, 1152 København K",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Løvstræde 14, 1152 København K",
+  "street_label": "Løvstræde, København Kommune"
+ },
+ "83": {
+  "lat": 55.66891275,
+  "lon": 12.54681015,
+  "geo_label": "Flensborggade 4, 1669 København V",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Flensborggade 36-38, 1669 København V",
+  "street_label": "Flensborggade, København Kommune"
+ },
+ "84": {
+  "lat": 55.67564098,
+  "lon": 12.59897488,
+  "geo_label": "Burmeistersgade 24, 1429 København K",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Burmeistergade 24, st. th., 1429 København K",
+  "street_label": "Prinsessegade, København Kommune"
+ },
+ "85": {
+  "lat": 55.66528787,
+  "lon": 12.55513819,
+  "geo_label": "Godsbanegade 22, 1722 København V",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Godsbanegade 22, kld., 1722 København V",
+  "street_label": "Ingerslevsgade, København Kommune"
+ },
+ "86": {
+  "lat": 55.6860544,
+  "lon": 12.56104016,
+  "geo_label": "Peblinge Dossering 16, 2200 København N",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Peblinge Dosseringen 16, 2200 København N",
+  "street_label": "Peblinge Dossering, København Kommune"
+ },
+ "87": {
+  "lat": 55.65940596,
+  "lon": 12.58898212,
+  "geo_label": "Kaj Munks Vej 14, 2300 København S",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Kaj Munks Vej 14, kld., 2300 København S",
+  "street_label": null
+ },
+ "88": {
+  "lat": 55.82435507,
+  "lon": 12.3899988,
+  "geo_label": "Fuglsangpark 122, 3520 Farum",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Fuglsangpark 122, 3520 Farum",
+  "street_label": "Fuglsangpark, Furesø Kommune"
+ },
+ "89": {
+  "lat": 55.672496,
+  "lon": 12.509217,
+  "geo_label": "Roskildevej 56A, 2000 Frederiksberg",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Roskildevej 56A, kælderen, 2000 Frederiksberg",
+  "street_label": "Roskildevej, Frederiksberg Kommune"
+ },
+ "90": {
+  "lat": 55.76811079,
+  "lon": 12.19474741,
+  "geo_label": "Egedal Centret 1, 3660 Stenløse",
+  "geo_source": "manuel",
+  "geo_conf": "low",
+  "geo_note": "Kun område kendt (Stenløse Syd, Egedal) – markør sat ved Stenløse centrum",
+  "office_addr": null,
+  "street_label": null
+ },
+ "92": {
+  "lat": 55.63254516,
+  "lon": 12.57439669,
+  "geo_label": "Edvard Thomsens Vej 9A, 2300 København S",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Edvard Thomsens Vej 9A, st., 2300 København S",
+  "street_label": null
+ },
+ "93": {
+  "lat": 56.01662,
+  "lon": 12.183448,
+  "geo_label": "Skovgårdsvej 38, 3200 Helsinge",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Skovgårdsvej 38, 3200 Helsinge",
+  "street_label": "Skovgårdsvej, Gribskov Kommune"
+ },
+ "94": {
+  "lat": 56.017204,
+  "lon": 12.182113,
+  "geo_label": "Skovgårdsvej 36, 3200 Helsinge",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Skovgårdsvej 36, 3200 Helsinge",
+  "street_label": "Skovgårdsvej, Gribskov Kommune"
+ },
+ "95": {
+  "lat": 55.629489,
+  "lon": 12.457202,
+  "geo_label": "Byvej 201, 2650 Hvidovre",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Byvej 201, 2650 Hvidovre",
+  "street_label": "Byvej, Hvidovre Kommune"
+ },
+ "96": {
+  "lat": 55.72824194,
+  "lon": 12.35605644,
+  "geo_label": "Baltorpvej 7, 2750 Ballerup",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Baltorpvej 7, st. tv, 2750 Ballerup",
+  "street_label": "Baltorpvej, Ballerup Kommune"
+ },
+ "97": {
+  "lat": 55.82780743,
+  "lon": 12.33815128,
+  "geo_label": "Armévænget 1, 3520 Farum",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Armévænget 1, 3520 Farum",
+  "street_label": null
+ },
+ "98": {
+  "lat": 55.653713,
+  "lon": 12.52417,
+  "geo_label": "Carl Jacobsens Vej 8, 2500 Valby",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Carl Jakobsens Vej 8, 2500 Valby",
+  "street_label": "Carl Jacobsens Vej, København Kommune"
+ },
+ "99": {
+  "lat": 55.653713,
+  "lon": 12.52417,
+  "geo_label": "Carl Jacobsens Vej 8, 2500 Valby",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Carl Jacobsensvej 8, 2500 Valby",
+  "street_label": "Carl Jacobsens Vej, København Kommune"
+ },
+ "100": {
+  "lat": 55.61698865,
+  "lon": 12.56986917,
+  "geo_label": "Richard Mortensens Vej 90, 2300 København S",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Richard Mortensens Vej 90, st. th., 2300 København S",
+  "street_label": null
+ },
+ "101": {
+  "lat": 55.72419921,
+  "lon": 12.36017407,
+  "geo_label": "Kornvænget 78, 2750 Ballerup",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Kornvænget 78 A, 2750 Ballerup",
+  "street_label": "Kornvænget, Ballerup Kommune"
+ },
+ "102": {
+  "lat": 55.72134715,
+  "lon": 12.40960353,
+  "geo_label": "Lundebjerggårdsvej 210, 2740 Skovlunde",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Lundebjerggårdsvej 210, kld., 2740 Skovlunde",
+  "street_label": "Lundebjerggårdsvej, Ballerup Kommune"
+ },
+ "103": {
+  "lat": 55.71392811,
+  "lon": 12.56386173,
+  "geo_label": "Vognmandsmarken 43, 2100 København Ø",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Vognmandsmarken 43, 2100 København Ø",
+  "street_label": "Vognmandsmarken, København Kommune"
+ },
+ "105": {
+  "lat": 55.65415646,
+  "lon": 12.50930166,
+  "geo_label": "Bellidavej 5, 2500 Valby",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Bellidavej 5 st., 2500 Valby",
+  "street_label": null
+ },
+ "106": {
+  "lat": 55.72177326,
+  "lon": 12.40354029,
+  "geo_label": "Blokhaven 7, 2740 Skovlunde",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Blokhaven 7, 1. tv., 2740 Skovlunde",
+  "street_label": "Blokhaven, Ballerup Kommune"
+ },
+ "107": {
+  "lat": 55.72115601,
+  "lon": 12.40497296,
+  "geo_label": "Lundebjerggårdsvej 14, 2740 Skovlunde",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": "Afdelingens vej (Grønnehaven) ligger 8.0 km herfra – markøren viser kontoret",
+  "office_addr": "Lundebjerggårdsvej 14, gavlen, 2740 Skovlunde",
+  "street_label": "Grønnehaven, Furesø Kommune"
+ },
+ "108": {
+  "lat": 55.72824194,
+  "lon": 12.35605644,
+  "geo_label": "Baltorpvej 7, 2750 Ballerup",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Baltorpvej 7, st. tv., 2750 Ballerup",
+  "street_label": "Baltorpvej, Ballerup Kommune"
+ },
+ "109": {
+  "lat": 55.66523185,
+  "lon": 12.53824842,
+  "geo_label": "Vesterfælledvej 92, 1799 København V",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Vesterfælledvej 92-94, 1799 København V",
+  "street_label": null
+ },
+ "110": {
+  "lat": 55.646615,
+  "lon": 12.636496,
+  "geo_label": "Jorisvej 9, 2300 København S",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Jorisvej 9, 2300 København S",
+  "street_label": "Jorisvej, København Kommune"
+ },
+ "111": {
+  "lat": 55.64098637,
+  "lon": 12.61516693,
+  "geo_label": "Gyldenrisvej 7, 2300 København S",
+  "geo_source": "afdelingskontor nær vejen",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Gyldenrisvej 7, 2300 København S",
+  "street_label": "Følfodvej, København Kommune"
+ },
+ "112": {
+  "lat": 55.63627161,
+  "lon": 12.63883004,
+  "geo_label": "Bredagervej 29, 2770 Kastrup",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Bredagervej 29, kld., 2770 Kastrup",
+  "street_label": "Bredagervej, Tårnby Kommune"
+ },
+ "113": {
+  "lat": 55.63097639,
+  "lon": 12.5993575,
+  "geo_label": "Tårnby Torv 2, 2770 Kastrup",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Tårnby Torv 2, kld., 2770 Kastrup",
+  "street_label": "Tårnby Torv, Tårnby Kommune"
+ },
+ "114": {
+  "lat": 55.63985106,
+  "lon": 12.61207119,
+  "geo_label": "Følfodvej 28, 2300 København S",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Følfodvej, 2300 København S",
+  "street_label": "Følfodvej, København Kommune"
+ },
+ "115": {
+  "lat": 55.6591745,
+  "lon": 12.58965806,
+  "geo_label": "Kaj Munks Vej 8, 2300 København S",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Kaj Munks Vej 8, 2300 København S",
+  "street_label": null
+ },
+ "117": {
+  "lat": 55.61982667,
+  "lon": 12.56974245,
+  "geo_label": "Else Alfelts Vej 49, 2300 København S",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Else Alfelts Vej 49, 2300 København S",
+  "street_label": null
+ },
+ "118": {
+  "lat": 55.6870825,
+  "lon": 12.54208856,
+  "geo_label": "Falkoner Alle 128, 2000 Frederiksberg",
+  "geo_source": "kontor på afdelingens vej",
+  "geo_conf": "high",
+  "geo_note": null,
+  "office_addr": "Falkoner Alle 128, 2000 Frederiksberg",
+  "street_label": "Falkoner Alle, Frederiksberg Kommune"
+ },
+ "119": {
+  "lat": 55.6477239,
+  "lon": 12.5418062,
+  "geo_label": "Sydhavnsgade, København Kommune",
+  "geo_source": "vejmidte",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Sydhavnsgade, 2450 København SV",
+  "street_label": "Sydhavnsgade, København Kommune"
+ },
+ "121": {
+  "lat": 55.69251882,
+  "lon": 12.49368918,
+  "geo_label": "Spøttrupvej 18, 2720 Vanløse",
+  "geo_source": "afdelingskontor",
+  "geo_conf": "medium",
+  "geo_note": null,
+  "office_addr": "Spøttrupvej 18, kld, 2720 Vanløse",
+  "street_label": null
+ }
+}

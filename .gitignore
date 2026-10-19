@@ -1,0 +1,10 @@
+# Personal data: your own AAB export and everything derived from it
+placeringer.html
+kort.html
+tools/rows.json
+tools/afdelinger.json
+tools/map_data.json
+tools/geocache.json
+
+.DS_Store
+__pycache__/
